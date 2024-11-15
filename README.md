@@ -1,6 +1,6 @@
 # EthPondy
 
-# EthPondy Hackathon
+# Hackathon
 
 👋 Welcome to **EthPondy**, the first Ethereum hackathon in Pondicherry, organized by [Web3Chennai](https://x.com/Web3Chennai). We're proud to announce that **EthPondy** is one of the official Ethereum events listed in **DevCon2024**!
 
